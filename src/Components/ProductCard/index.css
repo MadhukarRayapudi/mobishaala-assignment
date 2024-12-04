@@ -1,0 +1,23 @@
+.product-card {
+    width: 200px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product-card .price {
+    color: #ff5722;
+    font-size: 18px;
+  }
+  
+  .product-card .old-price {
+    text-decoration: line-through;
+    color: #888;
+  }
+  
